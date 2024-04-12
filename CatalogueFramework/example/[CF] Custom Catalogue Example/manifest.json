@@ -1,0 +1,13 @@
+{
+	"Name": "[CF] Custom Catalogue Example",
+	"Author": "leroymilo",
+	"Version": "1.0",
+	"MinimumApiVersion": "4.0",
+	"MinimumGameVersion": "1.6",
+	"Description": "An example for the Catalogue Framework",
+	"UniqueID": "leroymilo.CatalogueExample.CF",
+	"UpdateKeys": [ "Nexus:" ],
+	"ContentPackFor": {
+		"UniqueID": "leroymilo.CatalogueFramework"
+	}
+}
