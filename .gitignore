@@ -1,4 +1,5 @@
 .vscode
 test.sh
+*.zip
 CatalogueFramework/bin/
 CatalogueFramework/obj/
